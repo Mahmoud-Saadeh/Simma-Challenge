@@ -9,6 +9,16 @@ i. Every single attendee needs to get an item, and you should buy at least a sin
 
 ii. And to spend exactly 200 JDs.
 
+Menu : 
+
+Item 1:  Fizzy drinks .......................... 0.2 JDs
+
+Item 2:  Boston Creme Donut ........... 2 JDs
+
+Item 3:  500g Angus Beef Burger ... 10 JDs
+
+How many items will you end up buying from item 3 (The Beef Burger)?
+
 ## Challenge 2
 If we list all the natural numbers below 10 that are multiples of 3 or 5, we get:
 
